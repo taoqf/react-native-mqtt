@@ -37,8 +37,5 @@
 	"bugs": {
 		"url": "https://github.com/SudoPlz/react-native-mqtt/issues"
 	},
-	"homepage": "https://github.com/SudoPlz/react-native-mqtt#readme",
-	"dependencies": {
-		"sp-react-native-mqtt": "^0.4.24"
-	}
+	"homepage": "https://github.com/SudoPlz/react-native-mqtt#readme"
 }

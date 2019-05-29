@@ -17,19 +17,14 @@ This library in progress developing, api may change, SSL/TLS non verify
 
 ## Getting started
 
+### install
+
+```bash
+yarn add @taoqf/react-native-mqtt
+react-native link @taoqf/react-native-mqtt
+```
+
 ### Manual install
-
-#### JS
-
-```bash
-npm install rusfearuth/react-native-mqtt --save
-```
-
-or
-
-```bash
-yarn add rusfearuth/react-native-mqtt
-```
 
 #### iOS
 
